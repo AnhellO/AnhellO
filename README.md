@@ -42,9 +42,6 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/anhello/my-personal-stack)
 
-<br/>
-<hr/>
-
 ### Github Stats :bar_chart:
 
 #### Visitor's Count :eyes:
