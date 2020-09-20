@@ -1,6 +1,6 @@
 # Angel Jaime
 
-### You Can Reach Me At :alien:
+<h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
   <a href="https://dev.to/anhello">
@@ -36,20 +36,20 @@
   </a>
 </p>
 
-### My Stack :man_technologist:
+<h2 align="center">My stack :man_technologist:</h2>
 
 Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/anhello/my-personal-stack)
 
-### Github Stats :bar_chart:
+<h2 align="center">Github stats :bar_chart:</h2>
 
-#### Visitor's Count :eyes:
+<h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-#### Top Langs :tongue:
+<h4 align="center">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-#### Profile Stats :musical_keyboard:
+<h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
