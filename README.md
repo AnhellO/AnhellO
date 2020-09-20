@@ -1,5 +1,7 @@
 # Angel Jaime
 
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="450" width="800"></p>
+
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
