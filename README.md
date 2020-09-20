@@ -46,8 +46,12 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
 
 #### Visitor's Count :eyes:
 
-![Visitor Count](https://profile-counter.glitch.me/{AnhellO}/count.svg)
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+#### Top Langs :tongue:
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 #### Profile Stats :musical_keyboard:
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
