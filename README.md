@@ -1,6 +1,6 @@
 # Angel Jaime
 
-<h2 align="center">My bio</h2>
+<h2 align="center">About me</h2>
 
 ```golang
 package main
