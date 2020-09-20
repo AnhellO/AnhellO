@@ -2,7 +2,7 @@
 
 ### You Can Reach Me At :alien:
 
-<p>
+<p align="center">
   <a href="https://dev.to/anhello">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
   </a>
@@ -38,9 +38,7 @@
 
 ### My Stack :man_technologist:
 
-Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past:
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/anhello/my-personal-stack)
+Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/anhello/my-personal-stack)
 
 ### Github Stats :bar_chart:
 
