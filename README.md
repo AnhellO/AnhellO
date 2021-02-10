@@ -64,6 +64,10 @@ func GetBio() Bio {
   <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
+  
+  <a href="https://www.instagram.com/angel_sjz/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Angel Santiago Jaime Zavala's Instagram Profile" height="30" width="30">
+  </a>
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
